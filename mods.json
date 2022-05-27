@@ -1,0 +1,36 @@
+{
+    "tyre": [
+        {
+            "name": "really good tyres",
+            "price": 100,
+            "performance": 2
+        },
+        {
+            "name": "moderate tyres",
+            "price": 100,
+            "performance": 1
+        },
+        {
+            "name": "cheap and nasty tyres",
+            "price": 20,
+            "performance": 0.5
+        }
+    ],
+    "motor": [
+        {
+            "name": "really good motor",
+            "price": 100,
+            "performance": 2
+        },
+        {
+            "name": "moderate motor",
+            "price": 50,
+            "performance": 1
+        },
+        {
+            "name": "horrible motor",
+            "price": 5,
+            "performance": 0.5
+        }
+    ]
+}

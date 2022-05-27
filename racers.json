@@ -1,0 +1,18 @@
+[
+    {
+        "username": "johncena",
+        "skill": 1
+    },
+    {
+        "username": "jean-luc",
+        "skill": 1.5
+    },
+    {
+        "username": "mcQueen",
+        "skill": 2
+    },
+    {
+        "username": "noobslayer",
+        "skill": 2
+    }
+]
